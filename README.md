@@ -1,3 +1,5 @@
+## (Full step by step is in wiki)
+
 Title: Cyclistic Member Analysis
 
 Date: January 13th 2026
