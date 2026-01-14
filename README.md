@@ -34,7 +34,13 @@ The percentage of rides before and after noon by each member type
 
 ### Visualizations:
 
-(See wiki for visuals, step by step process and other links)
+<img width="443" height="371" alt="Percent of Member Type (1)" src="https://github.com/user-attachments/assets/e8905f9d-6bd4-4347-90ae-c83526d7bfeb" />
+
+<img width="532" height="371" alt="Average Duration (1)" src="https://github.com/user-attachments/assets/3acb04cc-6ec5-4305-ab87-2148acf641c8" />
+
+<img width="537" height="335" alt="Classic Vs Electric Bike (4)" src="https://github.com/user-attachments/assets/c63bed74-bd94-45ab-a04b-c8ea228e9f64" />
+
+<img width="600" height="371" alt="Before vs After Noon" src="https://github.com/user-attachments/assets/2a1f8c88-388c-4433-aaf2-c5433ba5c792" />
 
 The following data was found:
 
