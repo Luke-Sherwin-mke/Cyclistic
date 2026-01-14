@@ -35,10 +35,14 @@ Visualizations:
 (See repository)
 
 The following data was found:
+
 Members make up 64% and casual riders make up 36% of total rentals.
+
 Members' average trip duration is 12 minutes and casual riders are 20 minutes.
+
 Members use classic bikes 55% of the time and electric bike 45% of the time,
 Casual riders use classic bikes 47% of the time and electric bikes 53% of the time.
+
 Members use bikes after noon 55% of the time and before noon 45% of the time,
 Casual riders use bikes after noon 61% of the time and before noon 39% of the time.
 
