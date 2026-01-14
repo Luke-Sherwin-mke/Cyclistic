@@ -1,30 +1,30 @@
-## (Full step by step is in wiki)
+# (Full step by step is in wiki)
 
-Title: Cyclistic Member Analysis
+## Title: Cyclistic Member Analysis
 
-Date: January 13th 2026
+## Date: January 13th 2026
 
-Prepared for: Cyclistic Marketing & Executive Team
+## Prepared for: Cyclistic Marketing & Executive Team
 
-Prepared by: Luke Sherwin
+## Prepared by: Luke Sherwin
 
-Executive Summary:
+### Executive Summary:
 
 To convert casual riders into annual members and drive future growth, our analysis of 12 months of trip data reveals key behavioral differences: casual riders take longer trips (20 vs. 12 minutes), prefer electric bikes (53%) and afternoon rides (61%), while members use classic bikes more often. We recommend a three-part strategy: 1) A "Loyalty Minutes" program rewarding morning and classic bike use with membership credits, 2) A premium "Afternoon Electric Advantage" tier guaranteeing peak-hour e-bike access, and 3) A "Duration based" campaign incentivizing efficient, member-like ride durations by showing the savings that would be gained by membership. These targeted initiatives will nudge casual riders toward member behaviors, address their preferences, and systematically increase conversion rates.
 
-Business Task & Objective:
+### Business Task & Objective:
 
 The marketing team believes the company’s future success depends on maximizing the number of annual memberships. Therefore, our team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, our team will design a new marketing strategy to convert casual riders into annual members.
 
-Data Source:
+### Data Source:
 
 The last 12 months of Cyclistic trip data.
 
-Data Cleaning:
+### Data Cleaning:
 
 Merge data into one table, check for duplicates, delete incomplete records, delete inaccurate records, export cleaned table.
 
-Analysis:
+### Analysis:
 
 Create pivot tables of necessary information in order to obtain insights:
 The percentage of members and casual riders
@@ -32,7 +32,7 @@ The average length of rides of each rider type
 The percentage of the type of bike used by each member type
 The percentage of rides before and after noon by each member type
 
-Visualizations:
+### Visualizations:
 
 (See wiki for visuals, step by step process and other links)
 
@@ -48,11 +48,7 @@ Casual riders use classic bikes 47% of the time and electric bikes 53% of the ti
 Members use bikes after noon 55% of the time and before noon 45% of the time,
 Casual riders use bikes after noon 61% of the time and before noon 39% of the time.
 
-
-
-
-
-Recommendations:
+### Recommendations:
 
 1. Implement "Loyalty Minutes" Conversion Program
 Recommendation: Create a program where casual riders accumulate "minutes credits" toward membership. Every ride counts toward a discount, with bonus credits for rides before noon and on classic bikes.
@@ -93,3 +89,16 @@ Send monthly "Savings Opportunity" emails to casual riders
 Create dynamic pricing displays showing member vs. casual costs for common trip durations
 Offer "Duration Discount" - prorated membership based on recent casual spending
 
+### Impact:
+Rolling out all three campaigns over four months would realistically create a layered impact: 
+Initial short-term conversion lifts from the Duration-Based Pricing, 
+followed by increased premium revenue and improved bike rebalancing from the Afternoon Electric Advantage tier, 
+culminating in sustained behavior change and higher long-term loyalty through the Loyalty Minutes program.
+
+Link to report:
+
+[Cyclistic Report](https://docs.google.com/document/d/1VIBVF57c1CQ3iA1-R2bEAseQhZDLWW-XmqY7wnAWb6Q/edit?usp=sharing)
+
+Link to presentation:
+
+[Cyclistic Presentation](https://docs.google.com/presentation/d/1I8duFguO9XIB3JbE_bP3LERQi1GsgAJlILHtDisNCLA/edit?usp=sharing)
