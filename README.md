@@ -32,7 +32,7 @@ The percentage of rides before and after noon by each member type
 
 Visualizations:
 
-(See repository)
+(See wiki for step by step, visuals and other links)
 
 The following data was found:
 
