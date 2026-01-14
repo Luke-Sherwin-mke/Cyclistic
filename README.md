@@ -56,20 +56,17 @@ Casual riders use bikes after noon 61% of the time and before noon 39% of the ti
 
 ### Recommendations:
 
-1. Implement "Loyalty Minutes" Conversion Program
-Recommendation: Create a program where casual riders accumulate "minutes credits" toward membership. Every ride counts toward a discount, with bonus credits for rides before noon and on classic bikes.
-Rationale: The data reveals a strategic opportunity: casual riders use bikes 39% before noon vs. members' 45%, indicating a smaller but still significant morning user base. Additionally, casual riders prefer electric bikes (53%) while members prefer classic bikes (55%). By offering extra credits for less-congested morning hours and classic bike usage (which members prefer anyway), we can:
-Incentivize behavior that aligns with member patterns
-Reduce strain on electric bike inventory during peak hours
-Create a clear path to membership through accumulated value
+1. Implement "Duration-Based" Pricing Psychology
+Recommendation: Redesign the pricing display to show casual riders how much they're overspending compared to members, based on their actual usage patterns.
+Rationale: The 20-minute average trip duration for casual riders represents a specific usage pattern we can target with comparative pricing. Create personalized communications showing: "Your last 5 trips averaged 22 minutes. As a member, you would have saved $X." This makes the membership value concrete and personalized rather than abstract.
 
-Expected Impact: A graduated conversion approach lowers the psychological barrier to membership while teaching casual riders to adopt member-like behaviors.
+Expected Impact: Higher conversion rates through behavioral economics principles (loss aversion and concrete comparison). Riders who see exactly how much money they're leaving on the table are more likely to convert.
 
 Implementation:
-Launch in-app "Membership Meter" showing progress toward discounted membership
-Offer 2x credits for rides before noon
-Offer 1.5x credits for classic bike usage
-Send push notifications: "Your 5 morning rides this month earned you 10% off an annual membership!"
+Develop in-app calculator showing membership savings based on user's historical data
+Send monthly "Savings Opportunity" emails to casual riders
+Create dynamic pricing displays showing member vs. casual costs for common trip durations
+Offer "Duration Discount" - prorated membership based on recent casual spending
 
 2. Create "Afternoon Electric Advantage" Membership Tier
 Recommendation: Introduce a premium membership tier guaranteeing electric bike access during peak afternoon hours (12-6 PM) when casual riders use bikes 61% of the time.
@@ -83,17 +80,20 @@ Guarantee electric bike reservation availability for members 2+ hours in advance
 Market with messaging: "Skip the afternoon hunt. Your e-bike is waiting."
 Target casual riders with 3+ afternoon electric bike rentals monthly
 
-3. Implement "Duration-Based" Pricing Psychology
-Recommendation: Redesign the pricing display to show casual riders how much they're overspending compared to members, based on their actual usage patterns.
-Rationale: The 20-minute average trip duration for casual riders represents a specific usage pattern we can target with comparative pricing. Create personalized communications showing: "Your last 5 trips averaged 22 minutes. As a member, you would have saved $X." This makes the membership value concrete and personalized rather than abstract.
+3. Implement "Loyalty Minutes" Conversion Program
+Recommendation: Create a program where casual riders accumulate "minutes credits" toward membership. Every ride counts toward a discount, with bonus credits for rides before noon and on classic bikes.
+Rationale: The data reveals a strategic opportunity: casual riders use bikes 39% before noon vs. members' 45%, indicating a smaller but still significant morning user base. Additionally, casual riders prefer electric bikes (53%) while members prefer classic bikes (55%). By offering extra credits for less-congested morning hours and classic bike usage (which members prefer anyway), we can:
+Incentivize behavior that aligns with member patterns
+Reduce strain on electric bike inventory during peak hours
+Create a clear path to membership through accumulated value
 
-Expected Impact: Higher conversion rates through behavioral economics principles (loss aversion and concrete comparison). Riders who see exactly how much money they're leaving on the table are more likely to convert.
+Expected Impact: A graduated conversion approach lowers the psychological barrier to membership while teaching casual riders to adopt member-like behaviors.
 
 Implementation:
-Develop in-app calculator showing membership savings based on user's historical data
-Send monthly "Savings Opportunity" emails to casual riders
-Create dynamic pricing displays showing member vs. casual costs for common trip durations
-Offer "Duration Discount" - prorated membership based on recent casual spending
+Launch in-app "Membership Meter" showing progress toward discounted membership
+Offer 2x credits for rides before noon
+Offer 1.5x credits for classic bike usage
+Send push notifications: "Your 5 morning rides this month earned you 10% off an annual membership!"
 
 ### Impact:
 Rolling out all three campaigns over four months would realistically create a layered impact: 
